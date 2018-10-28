@@ -25,3 +25,4 @@ Chrome/Nodejs (depending on time taken, easy-small problems on browser)
 
 Project Euler problem are standard set of problem in organised sense. Will solve them in order since they themselves are ordered by level of difficulty.
 Complete problem list can be seen [`here`](./Problems.md)
+This problems can also be solved online on [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
